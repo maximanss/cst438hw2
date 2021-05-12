@@ -137,6 +137,7 @@ public class CityInfo {
                 + population + ", temp=" + temp + ", time=" + time + "]";
     }
 
+    //interesting use of hasCode for the result 
     @Override
     public int hashCode() {
         final int prime = 31;
