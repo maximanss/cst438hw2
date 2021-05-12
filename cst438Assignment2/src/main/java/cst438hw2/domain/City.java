@@ -1,5 +1,7 @@
 package cst438hw2.domain;
 
+//I don't see very much needed to comment on this code. It looks well formatted 
+//and you used the appropriate variables required. 
 /**
  * This is the city class which define the attributes ID, name, district, population, country
  *  The value of the attributes will be set by the CityService and WeatherService 

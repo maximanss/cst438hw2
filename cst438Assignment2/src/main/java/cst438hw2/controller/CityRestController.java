@@ -1,5 +1,7 @@
 package cst438hw2.controller;
 
+//Great formatting Max. The description you used here will help the reader 
+//see how to enter the URL into their browser
 /**
  * This is the Rest controller which provides external Rest Service when user enter URL like
  *      http://localhost:8080/api/cities/Miami, 
@@ -8,7 +10,8 @@ package cst438hw2.controller;
  * @author Max Halbert
  * @since 2021-05-09
  */
-
+/*
+ */
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

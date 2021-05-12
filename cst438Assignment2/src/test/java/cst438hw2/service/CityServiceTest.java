@@ -1,5 +1,5 @@
 package cst438hw2.service;
-
+// Great use of comments to describe each method
 /**
  * This is a test program to test the CityService using Mockito.
  *  The CityRepository will be mocked with a stub and 
